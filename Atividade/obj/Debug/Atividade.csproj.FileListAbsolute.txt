@@ -1,0 +1,10 @@
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\obj\Debug\Atividade.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\obj\Debug\Atividade.Form1.resources
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\obj\Debug\Atividade.Properties.Resources.resources
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\obj\Debug\Atividade.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\obj\Debug\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\obj\Debug\Atividade.exe
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Atividade\Atividade\obj\Debug\Atividade.pdb
